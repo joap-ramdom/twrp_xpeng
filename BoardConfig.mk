@@ -7,6 +7,9 @@
 
 DEVICE_PATH := device/motorola/xpeng
 
+# Recovery
+TARGET_OTA_ASSERT_DEVICE := xpeng
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
