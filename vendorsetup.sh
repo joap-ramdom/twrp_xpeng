@@ -31,7 +31,7 @@ THIS_DEVICE=${BASH_ARGV[2]}
         cd $common && git pull;
         cd $here;
     fi
-}
+
 
 fox_get_target_device() {
     local chkdev=$(echo "$BASH_SOURCE" | grep -w \"$FDEVICE\")
