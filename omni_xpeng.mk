@@ -23,3 +23,6 @@ PRODUCT_NAME := omni_xpeng
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := XT2175-2
 PRODUCT_MANUFACTURER := motorola
+
+# enable the FRP addon
+OF_ENABLE_FRP_ADDON := 1
