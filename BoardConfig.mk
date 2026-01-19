@@ -95,3 +95,7 @@ TW_USE_TOOLBOX := true
 
 # OrangeFox Maintainer
 FOX_RECOVERY_MAINTAINER := Jotanh (Joaodoximi)
+
+# Display brightness
+TW_MAX_BRIGHTNESS := 255
+TW_DEFAULT_BRIGHTNESS := 128
